@@ -1,16 +1,13 @@
 # account
 
-A new Flutter project.
+Account application.
+## the details
 
-## Getting Started
+An application intended to help aluminum carpenters calculate costs 
+and lengths of aluminum pieces in detail.
 
-This project is a starting point for a Flutter application.
+It offers the advantage of calculating work costs to the customer
+with high accuracy and clarity of numbers and details.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It contains a special page to permanently enter and 
+store the prices of accessories, while allowing them to be modified.
